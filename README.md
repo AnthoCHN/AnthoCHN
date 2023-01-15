@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/anthonychn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthonychn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthonychesneau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonychesneau" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anthochn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anthochn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18705027/anthochn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anthochn" height="30" width="40" /></a>
 <a href="https://instagram.com/anthochn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthochn" height="30" width="40" /></a>
 </p>
 
