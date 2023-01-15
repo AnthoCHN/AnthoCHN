@@ -2,12 +2,14 @@
 <h3 align="center">A passionate system test engineer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthochn&label=Profile%20views&color=0e75b6&style=flat" alt="anthochn" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anthochn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://twitter.com/anthonychn" target="blank"><img src="https://img.shields.io/twitter/follow/anthonychn?logo=twitter&style=for-the-badge" alt="anthonychn" /></a> </p>
 
 - 📫 How to reach me **anthony.github@protonmail.com**
+
+<h3 align="left">My GitHub trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anthochn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anthochn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anthochn" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthochn&show_icons=true&locale=en&layout=compact" alt="anthochn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthochn&show_icons=true&locale=en" alt="anthochn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthochn&" alt="anthochn" /></p>
